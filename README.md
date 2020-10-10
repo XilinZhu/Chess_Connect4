@@ -13,7 +13,7 @@
 
 <div class = "half"> 
     <img src = "https://i.loli.net/2020/10/10/W1ChUlHQpiAJzPb.png"  width = "50%" align = left>
-    <img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"  width = "50%" align = right> </div>
+    <img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"  width = "50%" align = right> </div><br>
 
 
 
