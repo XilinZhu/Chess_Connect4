@@ -13,10 +13,10 @@
 
 <table style = "text-align:center"> 
     <tr>
-        <td><center><img src = "https://i.loli.net/2020/10/10/W1ChUlHQpiAJzPb.png"></center>
+        <td><center><img src = "https://i.loli.net/2020/10/10/W1ChUlHQpiAJzPb.png"></center><br>
             <center>图1 欢迎界面</center>
         </td>
-        <td><center><img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"></center>
+        <td><center><img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"></center><br>
         	<center>图2 游戏界面</center>
         </td>
     </tr>
