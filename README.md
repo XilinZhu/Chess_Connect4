@@ -12,8 +12,10 @@
 四子棋也称立体四子棋。在实际生活中，人们使用一张竖放的 4x7 的棋盘，棋盘上侧开口，供投入棋子，正反两面镂空，供双方棋手观察棋盘。决定先手后，双方依次投入棋子，直至一方的有4颗棋子连成一条线获胜。
 
 <div class = "half"> 
-    <img src = "https://i.loli.net/2020/10/10/W1ChUlHQpiAJzPb.png"  width = "45%" align = left>
-    <img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"  width = "45%" align = right> </div>
+    <img src = "https://i.loli.net/2020/10/10/W1ChUlHQpiAJzPb.png"  width = "50%" align = left>
+    <img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"  width = "50%" align = right> </div>
+
+
 
 
 
