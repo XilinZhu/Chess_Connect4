@@ -13,8 +13,12 @@
 
 <table> 
     <tr>
-        <td><center><img src = "https://i.loli.net/2020/10/10/W1ChUlHQpiAJzPb.png"><center>图1 欢迎界面</center></center></td>
-        <td><center><img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"><center>图2 游戏界面</center></center></td>
+        <td><center><img src = "https://i.loli.net/2020/10/10/W1ChUlHQpiAJzPb.png"></center>
+            <center>图1 欢迎界面</center>
+        </td>
+        <td><center><img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"></center>
+        	<center>图2 游戏界面</center>
+        </td>
     </tr>
 </table>
 
