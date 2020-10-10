@@ -13,7 +13,9 @@
 
 <div> 
     <img src = "https://i.loli.net/2020/10/10/W1ChUlHQpiAJzPb.png"  width = "48%" align = left>
-    <img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"  width = "48%" align = right> </div><br>
+    <img src = "https://i.loli.net/2020/10/10/ThXftc7LIeUQHzJ.png"  width = "48%" align = right> 
+    <br>
+</div>
 
 
 
